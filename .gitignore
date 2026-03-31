@@ -1,8 +1,18 @@
-node_modules
+<<<<<<< HEAD
+node_modules/
 .DS_Store
+Thumbs.db
 .tmp
-tmp
-dist
+tmp/
+dist/
 npm-debug.log*
 yarn.lock
+pnpm-lock.yaml
 .vscode/launch.json
+*.tsbuildinfo
+.eslintcache
+.n8n/
+=======
+dist
+node_modules
+>>>>>>> 68fe6eb157b50be26c308968119b2d87dd191d1b
